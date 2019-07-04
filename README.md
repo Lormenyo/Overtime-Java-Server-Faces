@@ -3,13 +3,16 @@
 ## Features 
 
 ### Login page
+![login page](login.png "Login page)
 This is the page where the developers log into the portal.
 
 ### Dashboard 
+![Dashboard](Dashboard.png "Developer Dashboard")
 This view is for the developers to see their respective overtime logs.
 It also has links that redirects the developers to other pages like a page to track the approvals.
 
 ### Reuest page
+![Request page](request.png "Request page)
 This has a form where the developers request for the overtime.
 
 ## Things to add
